@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "reddit-chron",
+  "version": "0.0.0",
+  "license": "BSD-3-Clause",
+  "type": "module",
+  "dependencies": {
+    "@devvit/public-api": "0.11.7",
+    "@google/generative-ai": "^0.24.0",
+    "@types/node-fetch": "^2.6.12",
+    "cross-fetch": "^4.1.0",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.86.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "5.3.2",
+    "vitest": "^3.0.9"
+  }
+}
